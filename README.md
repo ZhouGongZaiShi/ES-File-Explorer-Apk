@@ -1,7 +1,8 @@
 # ES-File-Explorer-Apk
-[Normal Apk](http://www.estrongs.com/?lang=en#/) and [Amazon AppStore Apk]().
+[Normal Apk](http://www.estrongs.com/?lang=en#/) and [Amazon AppStore Apk](https://www.amazon.com/dp/B008K6HN8I/ref=mas_ya_dp).
 
-Amazon AppStore Apk contains code injected by Amazon AppStore. For example `com.amazon.android.Kiwi` and `com.amazon.android.framework.prompt.SimplePrompt`.
+Amazon AppStore Apk contains code injected by Amazon AppStore.     
+For example `com.amazon.android.Kiwi` and `com.amazon.android.framework.prompt.SimplePrompt`.
 
 If you need to read amazon injected code, you can decompile two apk and compare them.
 
